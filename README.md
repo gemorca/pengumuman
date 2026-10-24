@@ -45,8 +45,8 @@ Situs ini murni statis (HTML, CSS, dan JavaScript), ringan, dan bisa di-hosting 
 ## 🚀 Menjalankan Secara Lokal
 
 ```bash
-git clone https://github.com/gemorca/<nama-repo>.git
-cd <nama-repo>
+git clone https://github.com/gemorca/pengumuman.git
+cd pengumuman
 
 # pilih salah satu
 python -m http.server 8000
